@@ -24,7 +24,6 @@
  * Dummy devices (replace them with your own or something else entirely!)
  */
 
- 
 .product-device {
   position: absolute;
   right: 10%;
@@ -35,11 +34,6 @@
   border-radius: 21px;
   transform: rotate(30deg);
 }
-
-.container mb-auto {
-  color: #fff;
-}
-
 
 .product-device::before {
   position: absolute;
